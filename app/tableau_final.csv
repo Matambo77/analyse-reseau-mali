@@ -1,0 +1,8 @@
+﻿ville,debit_moyen_Mbps,latence_moyenne_ms,nombre_tests,categorie
+Sikasso,54.283076923076926,33.0,13.0,Bonne performance
+Kayes,46.101175,26.1,40.0,Bonne performance
+Bamako,37.75703387096774,30.467741935483872,620.0,Bonne performance
+Koulikoro,30.448584615384622,20.23076923076923,65.0,Bonne performance
+Ségou,28.14759523809524,81.47619047619048,42.0,À surveiller
+Mopti,27.376833333333334,35.416666666666664,12.0,Bonne performance
+Tombouctou,16.221127659574467,269.1063829787234,47.0,Prioritaire
